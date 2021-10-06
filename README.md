@@ -20,7 +20,7 @@ Data for this project was gathered from two Wikimedia REST APIs:
 
 ## Final Data File Description 
 
-(/data-512-a1/data_clean/en-wikipedia_traffic_200712-202108.csv)
+(en-wikipedia_traffic_200712-202108.csv)
   
   year: From 2007 to 2021 (int)
   
